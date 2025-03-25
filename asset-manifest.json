@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CryptoOCRTracker/static/css/main.79d19d76.css",
+    "main.js": "/CryptoOCRTracker/static/js/main.46987631.js",
+    "static/js/453.525f15a3.chunk.js": "/CryptoOCRTracker/static/js/453.525f15a3.chunk.js",
+    "index.html": "/CryptoOCRTracker/index.html",
+    "main.79d19d76.css.map": "/CryptoOCRTracker/static/css/main.79d19d76.css.map",
+    "main.46987631.js.map": "/CryptoOCRTracker/static/js/main.46987631.js.map",
+    "453.525f15a3.chunk.js.map": "/CryptoOCRTracker/static/js/453.525f15a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.46987631.js"
+  ]
+}
